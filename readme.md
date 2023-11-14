@@ -1,0 +1,1 @@
+Wordle oyunu çalışması.
